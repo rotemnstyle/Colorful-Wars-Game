@@ -4,6 +4,7 @@ This game is a fun project which decided for following my heart and fullfill mys
 JavaScript skills. 
 
 Developed and designed with the songs Eye of the Tiger and Don't Stop Believin'.
+link: https://codepen.io/rotem-narder/pen/yxPeLb
 
 I really hope you enjoy from this game and I'm looking foward for you in my future apps and projects.
 
